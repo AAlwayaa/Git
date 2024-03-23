@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class NewBehaviourScript : MonoBehaviour
 {
-    private string str = "Eight";
+    private string str = "ten";
     // Start is called before the first frame update
     void Start()
     {
